@@ -13,7 +13,7 @@ export const profile = {
     hackerrank: "https://www.hackerrank.com/profile/hoangquyle11",
   },
   cvUrl:
-    "https://drive.google.com/file/d/1vCTjWIfYm2VRkYckaO6zHN8ZiMrlI20v/view?usp=sharing",
+    "https://drive.google.com/file/d/1TbzbmLTc9UE_esaRzSjJuHPOqZ9kcVHd/view?usp=drive_link",
 };
 
 export const skills = [
@@ -73,12 +73,12 @@ export const projects = [
     ],
     tech: [
       "Spring Boot",
-      "React.js",
+      "React",
       "PostgreSQL",
       "Docker",
-      "Helm",
-      "AWS",
+      "Render",
       "GitHub Actions",
+      "JWT",
     ],
     link: "https://github.com/HoangQuyCoder/hotel-booking-system",
     color: "#58A6FF",

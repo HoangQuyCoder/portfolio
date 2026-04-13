@@ -12,7 +12,8 @@ export const profile = {
     linkedin: "https://www.linkedin.com/in/le-hoang-quy-762ba3389/",
     hackerrank: "https://www.hackerrank.com/profile/hoangquyle11",
   },
-  cvUrl: "https://www.canva.com/design/DAHDm6uvpx0/v4UiGJDZnUjTYB5eiyhO4w/edit",
+  cvUrl:
+    "https://drive.google.com/file/d/1vCTjWIfYm2VRkYckaO6zHN8ZiMrlI20v/view?usp=sharing",
 };
 
 export const skills = [
@@ -68,7 +69,7 @@ export const projects = [
       "Spring Boot RESTful API for hotel discovery & booking management",
       "Spring Security + JWT with Role-Based Access Control (RBAC)",
       "Optimized PostgreSQL with Spring Data JPA & complex JPQL queries",
-      "Microservices deployed on AWS with Docker, Helm & GitHub Actions CI/CD",
+      "Monolithic deployed on Render with Docker & GitHub Actions CI/CD",
     ],
     tech: [
       "Spring Boot",
